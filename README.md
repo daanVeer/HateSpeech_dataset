@@ -2,6 +2,8 @@
 
 I construct a hate speech vocabulary based on word embeddings and provide a dataset annotated using the hate speech vocabulary.
 
+The dataset was made by Kookmin University, Natural Langauge Processing Lab (NLP).
+
 ## Dataset Description
 
 **1) Raw Dataset (unlabeled dataset)**
